@@ -1,3 +1,9 @@
 A set of bash scripts for configuring a new Linux installation. Currently only supporting Debian, and only tested on Ubuntu.
 
+Quick Start
+-----------
+
+> wget https://github.com/ingydotnet/linux-setup-sh/raw/master/linux-setup-bootstrap.sh
+> bash linux-setup-bootstrap.sh
+
 
