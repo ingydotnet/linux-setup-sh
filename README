@@ -3,7 +3,7 @@ A set of bash scripts for configuring a new Linux installation. Currently only s
 Quick Start
 -----------
 
-> wget https://github.com/ingydotnet/linux-setup-sh/raw/master/linux-setup-bootstrap.sh
-> bash linux-setup-bootstrap.sh
+    wget https://github.com/ingydotnet/linux-setup-sh/raw/master/linux-setup-bootstrap.sh
+    bash linux-setup-bootstrap.sh
 
 
